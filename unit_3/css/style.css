@@ -8,6 +8,11 @@ body {
 	text-decoration: none;
 }
 
+image {
+	border: rgb(232, 111, 12);
+	border-width: 20px;
+}
+
 #slogan {
 	font-style: italic;
 	font-weight: 700;
