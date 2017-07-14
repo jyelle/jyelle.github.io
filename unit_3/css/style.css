@@ -12,13 +12,9 @@ ul {
 	list-style-position: inside;
 }
 
-.image {
-	border: black;
-	border-width: 20px;
-}
-
 #slogan {
+	font-size: 36px;
 	font-style: italic;
-	font-weight: 700;
+	font-weight: 600;
 	text-decoration: underline;
 }
