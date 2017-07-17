@@ -8,7 +8,6 @@ body {
 	background: rgb(255, 226, 106);
 	color: black;
 	font-size: 24px;
-	font-style: 'Crimson Text', serif;
 	font-weight: normal;
 	text-align: center;
 	text-decoration: none;
@@ -19,6 +18,7 @@ ul {
 }
 
 #slogan {
+	font-family: 'Crimson Text', serif;
 	font-size: 36px;
 	font-style: italic;
 	font-weight: 600;
