@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Lobster');
+
+h1 {
+	font-family: Lobster, cursive;
+}
+
+body {
+	background: rgb(255, 226, 106);
+	color: black;
+	font-size: 24px;
+	font-style: 'Crimson Text', serif;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
+}
+
+ul {
+	list-style-position: inside;
+}
+
+#slogan {
+	font-size: 36px;
+	font-style: italic;
+	font-weight: 600;
+	text-decoration: underline;
+}
